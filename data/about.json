@@ -1,0 +1,34 @@
+{
+ "region": "충남 아산시 탕정면 매곡리",
+ "nameEn": "Sunmoon University Asan Campus",
+ "added": "2026-10-24T16:30",
+ "rank": 99,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "NAZARENE",
+   "campus": "나사렛대학교",
+   "km": 4.0
+  },
+  {
+   "code": "U1-ASAN",
+   "campus": "유원대학교 아산캠퍼스",
+   "km": 6.1
+  },
+  {
+   "code": "HOSEO",
+   "campus": "호서대학교 아산캠퍼스",
+   "km": 7.0
+  },
+  {
+   "code": "KONGJU-CHEONAN",
+   "campus": "국립공주대학교 천안캠퍼스",
+   "km": 9.1
+  },
+  {
+   "code": "DANKOOK-CHEONAN",
+   "campus": "단국대학교 천안캠퍼스",
+   "km": 9.5
+  }
+ ]
+}
